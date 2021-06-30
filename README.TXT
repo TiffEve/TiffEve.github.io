@@ -1,1 +1,1 @@
-testing 
+So heres the breakdown. your Main page code will go into index.html, any styling or anything like that goes into the css folder. and any functions like search bars or anything will go into your JS folder. (JS = java script)
