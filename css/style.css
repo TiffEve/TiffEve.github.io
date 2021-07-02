@@ -1,5 +1,5 @@
 body{
-    background-image: linear-gradient(to left top, pink, white);
+    background-image: linear-gradient(to left top, pink, white) fixed;
 }
 .container{
     font-size: 72px;
