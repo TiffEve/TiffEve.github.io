@@ -14,10 +14,10 @@ body{
     color:black;
     text-shadow: hotpink 0 4px 10px;
 }
-.img-container{
+.verticalhorizontal{
 	width:300px;
 	height:400px;
-	position:absolute;
+	position:fixed;
 	left:25%;
 	top:25%;
 	/* margin:auto; */
