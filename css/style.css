@@ -15,10 +15,10 @@ body{
     text-shadow: hotpink 0 4px 10px;
 }
 .img-container{
-	width:75%;
-	height:75%;
+	width:600px;
+	height:600px;
 	position:absolute;
 	left:25%;
 	top:25%;
-	margin:auto;
+	/* margin:auto; */
 }
